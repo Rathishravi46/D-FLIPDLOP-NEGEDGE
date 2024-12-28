@@ -1,6 +1,6 @@
 # D-FLIPDLOP-NEGEDGE
-**NAME: Syed Mohamed Raihan.M
-REG NO: 24900516
+**NAME: Rathish R
+REG NO: 24901297
 
 **AIM:**
 
