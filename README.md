@@ -2,6 +2,8 @@
 **NAME: Rathish R
 REG NO: 24901297
 
+Date : 2.05.25
+
 **AIM:**
 
 To implement  D flipflop using verilog and validating their functionality using their functional tables
